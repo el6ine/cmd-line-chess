@@ -25,6 +25,13 @@ Another unique feature is the ability to set custom chessboard configurations.
 <img width="1440" alt="chess begin setup" src="https://github.com/el6ine/cmd-line-chess/assets/110880989/6eb4cb2a-9612-4a8c-ae1e-94551e40bb8e">
 
 
-Here, the chessboard starts empty and the user is able to setup the board how they want it. The commands "+ [piece] [coordinate]" and "- [piece] [coordinate]"
+Here, the chessboard starts empty and the user is able to setup the board how they want it. The commands "+ [piece] [coordinate]" and "- [piece] [coordinate]" will set and remove a piece respectively, with pieces adding in tiles with existing pieces replacing them. The command "= [black or white]" sets the first player to whichever player is specified. The command "done" quits out of setup mode, but requires both kings to be on the board and for neither of them to be in check.
 <img width="1440" alt="chess-setup" src="https://github.com/el6ine/cmd-line-chess/assets/110880989/1d1e9bf1-3318-4e2e-859b-0f963af50304">
+
+
+## Playing the Game
+Moves are made with the command "move [starting coordinate] [ending coordinate]" for human players. The console will output which player's turn it is currently.
+<img width="1440" alt="chess firstmove" src="https://github.com/el6ine/cmd-line-chess/assets/110880989/1dba30ca-ca9c-4f7c-9073-8ec9e93609ec">
+<img width="1440" alt="chess-move1" src="https://github.com/el6ine/cmd-line-chess/assets/110880989/f3da9af7-628c-42a0-aaad-b235b8dba42b">
+
 

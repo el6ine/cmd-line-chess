@@ -4,6 +4,8 @@ This project was created by Elaine Zhao, Peiran Tao and Martin Tang as part of c
 
 In line with Academic Integrity Policies, source code for this project cannot be publicly posted.
 
+For ease of reading, the most recent input will be highlighted.
+
 The following is a demo of how this chess game would work:
 
 ### Game Setup
@@ -11,8 +13,6 @@ The following is a demo of how this chess game would work:
 The game is a program written in C++ with graphics generated with Xwindow.
 
 Commands are entered through terminal. The command game followed by arguments specifying the type of player (human or one of three computer players), after which a game starts. The chessboard is displayed through the graphics display as well as outputted to the terminal in a grid.
-
-For ease of reading, the most recent input will be highlighted.
 
 Example of starting a game with two human players:
 <img width="1440" alt="game human human" src="https://github.com/el6ine/cmd-line-chess/assets/110880989/ca71ed9c-3637-433e-a4d2-7452d07e4888">

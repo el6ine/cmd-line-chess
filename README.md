@@ -34,4 +34,6 @@ Moves are made with the command "move [starting coordinate] [ending coordinate]"
 <img width="1440" alt="chess firstmove" src="https://github.com/el6ine/cmd-line-chess/assets/110880989/1dba30ca-ca9c-4f7c-9073-8ec9e93609ec">
 <img width="1440" alt="chess-move1" src="https://github.com/el6ine/cmd-line-chess/assets/110880989/f3da9af7-628c-42a0-aaad-b235b8dba42b">
 
+For computer players, simply typing the command "move" will follow an algorithm that decides which piece is moved, and where it is moved too. Moves performed by computer players will always be valid.
+<img width="1440" alt="chess comp 1stmove" src="https://github.com/el6ine/cmd-line-chess/assets/110880989/1a8b0cf8-fe00-485c-b8e9-442d7478ba65">
 
